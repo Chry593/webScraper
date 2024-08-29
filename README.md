@@ -1,2 +1,2 @@
-# webScraper
-webscraper per amazon, con ricerca dei prodotti e il prezzo
+# WebScraper Amazon
+webscraper per amazon, con ricerca personalizzata dei prodotti e il prezzo
